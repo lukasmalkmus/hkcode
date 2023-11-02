@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/skip2/go-qrcode v0.0.0-20200617195104-da1b6568686e
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/image v0.9.0
+	golang.org/x/image v0.10.0
 	golang.org/x/tools v0.6.0
 )
 
